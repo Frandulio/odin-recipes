@@ -1,1 +1,1 @@
-# odin-recipes
+Web básica de Recetas
